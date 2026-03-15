@@ -63,7 +63,7 @@ with st.sidebar:
 # 設定網頁標題與排版
 st.set_page_config(page_title="ADA 標準 DKA/HHS 導航系統", layout="centered", page_icon="🚨")
 
-st.title("🚨 ADA 標準 DKA/HHS 動態導航系統 (究極安全版)")
+st.title("🚨 ADA 標準 DKA/HHS 動態導航系統")
 st.markdown("**基於美國糖尿病學會 (ADA) 高血糖危機處置指引，並內建極端數值防護演算法**")
 st.caption("配方預設：Regular Insulin 或 速效 Insulin 100U + 0.9% N/S 100mL (1 U/mL = 1 mL/hr = 1 U/hr)")
 
