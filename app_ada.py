@@ -151,3 +151,4 @@ with tab2:
 # --- 版權聲明 ---
 st.divider()
 st.caption("© 2026 ER DKA/HHS Clinical Decision Support Tool. All Rights Reserved. \n\n本系統採 CC BY-NC-ND 4.0 授權，僅供臨床決策輔助與教學使用，不可取代醫師最終專業判斷。")
+st.caption("© 2026 [護理師 吳智弘] 開發設計. 版權所有。")
