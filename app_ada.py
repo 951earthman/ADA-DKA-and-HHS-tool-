@@ -4,11 +4,7 @@ import streamlit as st
 # ==========================================
 with st.sidebar:
     st.header("📚 臨床機轉小寶典")
-    st.caption("輸入關鍵字，快速複習急診重症生理機轉。")
-    
-    # 搜尋列設計
-    search_query = st.text_input("🔍 搜尋關鍵字 (例：酮體, 鉀, 腦水腫, 鈉)...", "").strip().lower()
-    
+       
     # 建立知識庫字典 (Knowledge Base)
     knowledge_base = {
         "DKA 為什麼會變酸？ (機轉)": """
